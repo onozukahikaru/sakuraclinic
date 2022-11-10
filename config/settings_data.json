@@ -1,0 +1,883 @@
+{
+  "current": {
+    "color_primary": "#744740",
+    "color_secondary": "#f3f3f3",
+    "color_accent": "#545454",
+    "color_body_bg": "#f3f3f3",
+    "color_borders": "#dedede",
+    "color_header_background": "#ffffff",
+    "color_header_text": "#545454",
+    "color_header_cart_search": "#f3f3f3",
+    "color_nav_bg": "#9c756f",
+    "color_nav_text": "#ffffff",
+    "color_body_text": "#000000",
+    "color_heading_text": "#000000",
+    "color_footer_bg": "#ffffff",
+    "color_footer_text": "#545454",
+    "color_footer_social_link": "#545454",
+    "type_base_font": "sans-serif",
+    "type_base_size": "14px",
+    "type_header_font": "sans-serif",
+    "type_header_transform": true,
+    "type_accent_font": "lato_n7",
+    "type_navigation_size": "14px",
+    "type_navigation_transform": true,
+    "type_button_size": "14px",
+    "type_button_transform": true,
+    "favicon": "shopify:\/\/shop_images\/apple-icon-60x60.png",
+    "cart_notes_enable": false,
+    "ajax_cart_method": "modal",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "social_pinterest_link": "",
+    "social_google_plus_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/anjosakuraclinic\/",
+    "social_snapchat_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "social_fancy_link": "",
+    "social_sharing_style": "is-normal",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "superscript_decimals": true,
+    "checkout_header_image": "shopify:\/\/shop_images\/cosmetic-containers.jpg",
+    "checkout_heading_font": "Open Sans",
+    "collection_sidebar_filters": "tags",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "menu": "main-menu",
+          "logo": "shopify:\/\/shop_images\/1_243e89a1-9578-4ac4-94db-bd0cb82929a5.png",
+          "logo_max_width": "250",
+          "show_announcement": true,
+          "announcement_text": "【送料無料】（ 一部商品を除く）",
+          "announcement_link": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "d0a11320-7e1f-4c63-9f5e-d61a963c30bc": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "ページ案内",
+              "menu": "link-list-1",
+              "width": "25%"
+            }
+          },
+          "text": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "サービス概要",
+              "richtext": "",
+              "width": "25%"
+            }
+          },
+          "newsletter": {
+            "type": "newsletter",
+            "disabled": true,
+            "settings": {
+              "title": "Newsletter",
+              "subtext": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+              "width": "33%"
+            }
+          },
+          "f71e526d-49d7-4924-bd59-d4a62319d619": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "サービス概要",
+              "menu": "",
+              "width": "16%"
+            }
+          },
+          "d5720467-0092-42c0-99ec-a3b057438c42": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "カテゴリ",
+              "menu": "link-list-2",
+              "width": "25%"
+            }
+          },
+          "a3a47acb-86b7-4eb6-a5ed-48c93fec12f0": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "ブランド",
+              "menu": "link-list-3",
+              "width": "25%"
+            }
+          },
+          "menu": {
+            "type": "menu",
+            "settings": {
+              "title": "その他",
+              "menu": "link-list",
+              "width": "25%"
+            }
+          }
+        },
+        "block_order": [
+          "d0a11320-7e1f-4c63-9f5e-d61a963c30bc",
+          "text",
+          "newsletter",
+          "f71e526d-49d7-4924-bd59-d4a62319d619",
+          "d5720467-0092-42c0-99ec-a3b057438c42",
+          "a3a47acb-86b7-4eb6-a5ed-48c93fec12f0",
+          "menu"
+        ],
+        "settings": {
+          "social_enabled": true,
+          "show_payment_icons": false,
+          "legal_menu": ""
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "c256a77e-c622-44fd-9d85-6649e2f112c8": {
+            "type": "image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/ZO_products_211118.png",
+              "link": ""
+            }
+          },
+          "slide-0": {
+            "type": "image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/2022-02-08_22.26.20.png",
+              "link": ""
+            }
+          },
+          "b7c61cf5-85de-434e-80be-8ece11fa76e0": {
+            "type": "image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/Revision.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "c256a77e-c622-44fd-9d85-6649e2f112c8",
+          "slide-0",
+          "b7c61cf5-85de-434e-80be-8ece11fa76e0"
+        ],
+        "settings": {
+          "slider_home_auto": false,
+          "slider_home_rate": "5000"
+        }
+      },
+      "collection-list": {
+        "type": "collection-list",
+        "blocks": {
+          "6942db5e-de21-400c-8bd2-773f754d0da6": {
+            "type": "collection",
+            "settings": {
+              "collection": "日焼け止め"
+            }
+          },
+          "a3f471f6-0d03-41ba-966d-f8cb334ef25a": {
+            "type": "collection",
+            "settings": {
+              "collection": "クレンジング"
+            }
+          },
+          "collection-list-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "化粧水"
+            }
+          },
+          "2f0ddefa-a495-4ce7-bfbc-54dc1f486ab2": {
+            "type": "collection",
+            "settings": {
+              "collection": "美容ジェル"
+            }
+          },
+          "cf19f384-dafa-489a-ae68-2eea90348bf1": {
+            "type": "collection",
+            "settings": {
+              "collection": "エイジングケア"
+            }
+          },
+          "collection-list-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "石鹸"
+            }
+          }
+        },
+        "block_order": [
+          "6942db5e-de21-400c-8bd2-773f754d0da6",
+          "a3f471f6-0d03-41ba-966d-f8cb334ef25a",
+          "collection-list-1",
+          "2f0ddefa-a495-4ce7-bfbc-54dc1f486ab2",
+          "cf19f384-dafa-489a-ae68-2eea90348bf1",
+          "collection-list-0"
+        ],
+        "settings": {
+        }
+      },
+      "collection-row-3": {
+        "type": "collection-rows",
+        "settings": {
+          "title": "売上ランキング",
+          "home_featured_row": "ランキング",
+          "grid": 5,
+          "rows": 1,
+          "product_show_saved_amount": true,
+          "product_show_compare_at_price": false
+        }
+      },
+      "featured-content": {
+        "type": "featured-content",
+        "settings": {
+          "section_title": "お知らせ",
+          "text": "<p><strong>■クーポン配布中<\/strong><\/p><p>当オンラインショップでは定期的にクーポンを配布しています。<\/p><p>クーポンは、以下当ショップのLINEにお友達登録をするとゲットできます。<\/p><p><a href=\"https:\/\/lin.ee\/4KSRD2U\" target=\"_blank\" title=\"https:\/\/lin.ee\/4KSRD2U\"><strong>【LINE登録】をする<\/strong><\/a><\/p><p><\/p><p><\/p><p><strong>■発送業務について<\/strong><\/p><p>クリニック休診日の水曜日、日曜日は発送業務を停止しています。あらかじめご了承ください。<\/p>",
+          "text_size": "medium"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "grid": "4",
+          "rows": "6",
+          "collection_sidebar_filters": "tags",
+          "product_show_compare_at_price": false,
+          "product_show_saved_amount": true,
+          "product_reviews_enable": false,
+          "enable_sidebar": false
+        }
+      },
+      "1642178264a7058406": {
+        "type": "collection-list",
+        "blocks": {
+          "1642178264a7058406-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "ゼオスキンヘルス"
+            }
+          },
+          "1642178264a7058406-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "revision-skincare"
+            }
+          },
+          "8fec2d9b-aa82-4cb4-9939-b908737ead91": {
+            "type": "collection",
+            "settings": {
+              "collection": "ナビジョンdr"
+            }
+          },
+          "81624b42-5e17-4cb9-a46d-50d5d6f7f57e": {
+            "type": "collection",
+            "settings": {
+              "collection": "エムディア"
+            }
+          },
+          "7e08ec25-c552-441e-86db-c1a3bb71fc75": {
+            "type": "collection",
+            "settings": {
+              "collection": "ビューティフルスキン"
+            }
+          },
+          "c67107a8-eed6-48b8-89cc-6cfd096c052b": {
+            "type": "collection",
+            "settings": {
+              "collection": "ジャンマリーニ"
+            }
+          }
+        },
+        "block_order": [
+          "1642178264a7058406-0",
+          "1642178264a7058406-1",
+          "8fec2d9b-aa82-4cb4-9939-b908737ead91",
+          "81624b42-5e17-4cb9-a46d-50d5d6f7f57e",
+          "7e08ec25-c552-441e-86db-c1a3bb71fc75",
+          "c67107a8-eed6-48b8-89cc-6cfd096c052b"
+        ],
+        "settings": {
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "layout": "grid",
+          "sort": "date_reversed",
+          "grid": "4"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_image_zoom_enable": false,
+          "product_quantity_enable": true,
+          "product_quantity_message": false,
+          "product_incoming_message": false,
+          "product_vendor_enable": false,
+          "product_show_saved_amount": true,
+          "product_show_compare_at_price": false,
+          "related_products_enable": true,
+          "enable_payment_button": true,
+          "social_sharing_products": true,
+          "product_reviews_enable": false,
+          "add_to_cart_button_size": "large"
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "product_show_compare_at_price": false,
+          "product_show_saved_amount": true
+        }
+      },
+      "1644418142971ff50d": {
+        "type": "collection-rows",
+        "settings": {
+          "title": "咲くらクリニック・お得セット",
+          "home_featured_row": "お得セット",
+          "grid": 5,
+          "rows": 1,
+          "product_show_saved_amount": true,
+          "product_show_compare_at_price": false
+        }
+      },
+      "1644418293b2a393d1": {
+        "type": "featured-product",
+        "disabled": true,
+        "settings": {
+          "featured_product": "azaクリア",
+          "product_quantity_enable": false,
+          "product_vendor_enable": false,
+          "product_image_zoom_enable": false,
+          "enable_payment_button": true,
+          "social_sharing_products": false
+        }
+      },
+      "1644419160f45bd9c4": {
+        "type": "collection-rows",
+        "settings": {
+          "title": "注目！新着商品！",
+          "home_featured_row": "新着商品",
+          "grid": 5,
+          "rows": 2,
+          "product_show_saved_amount": true,
+          "product_show_compare_at_price": false
+        }
+      },
+      "16454213497cefc02f": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "f01e6edc-eaa9-4391-afa9-a10685f30adb": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "collection": "新着商品"
+            }
+          },
+          "16454213497cefc02f-0": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "16454213497cefc02f-1": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "f01e6edc-eaa9-4391-afa9-a10685f30adb",
+          "16454213497cefc02f-0",
+          "16454213497cefc02f-1"
+        ],
+        "settings": {
+        }
+      },
+      "164542918878bda73b": {
+        "type": "collection-list",
+        "blocks": {
+          "164542918878bda73b-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "プラスリストア"
+            }
+          },
+          "164542918878bda73b-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "サンソリット-1"
+            }
+          },
+          "4e77df4f-67f6-4587-b1d1-87dc579065c0": {
+            "type": "collection",
+            "settings": {
+              "collection": "ラ-ロッシュ-ポゼ"
+            }
+          },
+          "4f3087bd-3e6b-4402-baf7-f34b7d1587b2": {
+            "type": "collection",
+            "settings": {
+              "collection": "wiqo"
+            }
+          },
+          "db06319e-e4fc-4cbd-908c-7fe7ad8d4338": {
+            "type": "collection",
+            "settings": {
+              "collection": "ナノメッド"
+            }
+          }
+        },
+        "block_order": [
+          "164542918878bda73b-0",
+          "164542918878bda73b-1",
+          "4e77df4f-67f6-4587-b1d1-87dc579065c0",
+          "4f3087bd-3e6b-4402-baf7-f34b7d1587b2",
+          "db06319e-e4fc-4cbd-908c-7fe7ad8d4338"
+        ],
+        "settings": {
+        }
+      },
+      "16454292239c26b22e": {
+        "type": "collection-list",
+        "blocks": {
+          "13115d85-1821-4aa2-9857-18390f3cb3c4": {
+            "type": "collection",
+            "settings": {
+              "collection": "d-seriesデオドラントシリーズ"
+            }
+          },
+          "2a634552-e03c-4dae-8776-5f90f6917df0": {
+            "type": "collection",
+            "settings": {
+              "collection": "その他-1"
+            }
+          },
+          "a6549c17-4492-4b18-aa45-d4dba083b579": {
+            "type": "collection",
+            "settings": {
+              "collection": "ヘアケア"
+            }
+          },
+          "a8a15717-bb01-49e2-a8a4-b642a8c521f7": {
+            "type": "collection",
+            "settings": {
+              "collection": "ボディケア"
+            }
+          },
+          "4eb912a5-4798-4c5d-90a9-7109006c56c9": {
+            "type": "collection",
+            "settings": {
+              "collection": "アイクリーム"
+            }
+          },
+          "38ab3f47-0a34-418a-a2a4-35bf3ba8d144": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "13115d85-1821-4aa2-9857-18390f3cb3c4",
+          "2a634552-e03c-4dae-8776-5f90f6917df0",
+          "a6549c17-4492-4b18-aa45-d4dba083b579",
+          "a8a15717-bb01-49e2-a8a4-b642a8c521f7",
+          "4eb912a5-4798-4c5d-90a9-7109006c56c9",
+          "38ab3f47-0a34-418a-a2a4-35bf3ba8d144"
+        ],
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+      "slideshow",
+      "collection-row-3",
+      "1644418293b2a393d1",
+      "1644419160f45bd9c4",
+      "1644418142971ff50d",
+      "16454213497cefc02f",
+      "1642178264a7058406",
+      "164542918878bda73b",
+      "collection-list",
+      "16454292239c26b22e",
+      "featured-content"
+    ]
+  },
+  "presets": {
+    "Blue": {
+      "ajax_cart_method": "modal",
+      "cart_notes_enable": false,
+      "collection_sidebar_filters": "tags",
+      "color_accent": "#dd2525",
+      "color_body_bg": "#fff",
+      "color_body_text": "#585858",
+      "color_borders": "#ececec",
+      "color_footer_bg": "#f2f2f2",
+      "color_footer_social_link": "#bbbbbb",
+      "color_footer_text": "#636363",
+      "color_header_background": "#182e49",
+      "color_header_cart_search": "#0f243d",
+      "color_header_text": "#fff",
+      "color_heading_text": "#000",
+      "color_nav_bg": "#182e49",
+      "color_nav_text": "#fff",
+      "color_primary": "#528ec1",
+      "color_secondary": "#dcdcdc",
+      "share_facebook": true,
+      "share_pinterest": true,
+      "share_twitter": true,
+      "social_facebook_link": "",
+      "social_fancy_link": "",
+      "social_google_plus_link": "",
+      "social_instagram_link": "",
+      "social_pinterest_link": "",
+      "social_sharing_style": "is-normal",
+      "social_snapchat_link": "",
+      "social_tumblr_link": "",
+      "social_twitter_link": "",
+      "social_vimeo_link": "",
+      "social_youtube_link": "",
+      "type_accent_font": "montserrat_n5",
+      "type_base_font": "montserrat_n5",
+      "type_base_size": "13px",
+      "type_button_size": "14px",
+      "type_button_transform": true,
+      "type_header_font": "montserrat_n7",
+      "type_header_transform": true,
+      "type_navigation_size": "14px",
+      "type_navigation_transform": true,
+      "superscript_decimals": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": "305"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "menu": {
+              "type": "menu",
+              "settings": {
+                "title": "Quick links",
+                "menu": "",
+                "width": "16%"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "Get in touch",
+                "richtext": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "width": "50%"
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "width": "33%"
+              }
+            }
+          },
+          "block_order": [
+            "menu",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "social_enabled": false,
+            "legal_menu": ""
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            },
+            "slide-2": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1",
+            "slide-2"
+          ],
+          "settings": {
+            "slider_home_auto": false,
+            "slider_home_rate": "5000"
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-list-0": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "collection-list-1": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-list-0",
+            "collection-list-1"
+          ],
+          "settings": {
+          }
+        },
+        "collection-row-1": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-2": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-3": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "collection-list",
+        "collection-row-1",
+        "collection-row-2",
+        "collection-row-3"
+      ]
+    },
+    "Light": {
+      "ajax_cart_method": "modal",
+      "cart_notes_enable": false,
+      "collection_sidebar_filters": "tags",
+      "color_accent": "#545454",
+      "color_body_bg": "#f3f3f3",
+      "color_body_text": "#858585",
+      "color_borders": "#dedede",
+      "color_footer_bg": "#ffffff",
+      "color_footer_social_link": "#545454",
+      "color_footer_text": "#545454",
+      "color_header_background": "#ffffff",
+      "color_header_cart_search": "#f3f3f3",
+      "color_header_text": "#545454",
+      "color_heading_text": "#2f2f2f",
+      "color_nav_bg": "#9c756f",
+      "color_nav_text": "#ffffff",
+      "color_primary": "#9c756f",
+      "color_secondary": "#f3f3f3",
+      "share_facebook": true,
+      "share_pinterest": true,
+      "share_twitter": true,
+      "social_facebook_link": "",
+      "social_google_plus_link": "",
+      "social_instagram_link": "",
+      "social_sharing_style": "is-normal",
+      "social_twitter_link": "",
+      "type_accent_font": "lato_n7",
+      "type_base_font": "roboto_n4",
+      "type_base_size": "14px",
+      "type_button_size": "14px",
+      "type_button_transform": true,
+      "type_header_font": "times_new_roman_n7",
+      "type_header_transform": false,
+      "type_navigation_size": "14px",
+      "type_navigation_transform": true,
+      "superscript_decimals": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": "305"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "menu": {
+              "type": "menu",
+              "settings": {
+                "title": "Quick links",
+                "menu": "",
+                "width": "16%"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "Get in touch",
+                "richtext": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "width": "50%"
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "width": "33%"
+              }
+            }
+          },
+          "block_order": [
+            "menu",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "social_enabled": false,
+            "legal_menu": ""
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0"
+          ],
+          "settings": {
+            "slider_home_auto": false,
+            "slider_home_rate": "5000"
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-list-0": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "collection-list-1": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-list-0",
+            "collection-list-1"
+          ],
+          "settings": {
+          }
+        },
+        "collection-row-1": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-2": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-3": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {
+          }
+        },
+        "slideshow-2": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-2-0": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-2-0"
+          ],
+          "settings": {
+            "slider_home_auto": false,
+            "slider_home_rate": "5000"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "collection-list",
+        "collection-row-1",
+        "collection-row-2",
+        "collection-row-3",
+        "slideshow-2",
+        "featured-content"
+      ]
+    }
+  }
+}
