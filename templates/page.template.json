@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "main": {
+      "type": "malin-page",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+ }
